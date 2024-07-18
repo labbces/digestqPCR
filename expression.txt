@@ -1,0 +1,19 @@
+Target	Type	Replicate	Biogroup_sample	Mean Cq
+Actin	Housekeeping	1	Untreated	28,74
+Actin	Housekeeping	2	Untreated	28,85
+Actin	Housekeeping	3	Untreated	28,63
+Actin	Housekeeping	1	Treated	28,84
+Actin	Housekeeping	2	Treated	29,08
+Actin	Housekeeping	3	Treated	28,76
+HPRT	Housekeeping	1	Untreated	29,00
+HPRT	Housekeeping	2	Untreated	28,00
+HPRT	Housekeeping	3	Untreated	28,50
+HPRT	Housekeeping	1	Treated	27,80
+HPRT	Housekeeping	2	Treated	29,20
+HPRT	Housekeeping	3	Treated	28,50
+DER5	GOI	1	Untreated	31,26
+DER5	GOI	2	Untreated	31,01
+DER5	GOI	3	Untreated	30,97
+DER5	GOI	1	Treated	32,65
+DER5	GOI	2	Treated	32,03
+DER5	GOI	3	Treated	32,40
